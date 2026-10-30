@@ -61,6 +61,10 @@ Unlike systems relying on bulky, off-the-shelf Linux single-board computers, Spe
 #### Robu.in Cart (24GHz mmWave Radar & 1.69" ST7789 LCD)
 ![Robu Cart](docs/cart-robu.png)
 
+### 🖥️ PCB Layout & 3D Render
+![Schematic](hardware/SpecterSense_Schematic.png)
+![PCB 3D View](hardware/SpecterSense_3D_Render.png)
+
 ---
 
 ## 🚀 Build & Firmware Plan
